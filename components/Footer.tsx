@@ -10,7 +10,7 @@ const Footer = () => {
             <h3 className="text-xs tracking-wider mb-4 text-black uppercase">About</h3>
             <p className="text-gray-600 text-sm">
               The Brand Attention Strategy is a comprehensive guide to building
-              brand attention and engagement in today's competitive market.
+              brand attention and engagement in today&apos;s competitive market.
             </p>
           </div>
 
